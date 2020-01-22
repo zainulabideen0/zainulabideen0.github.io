@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    display: grid;
+}
+
+body {
+    background-color: #000000;
+    height: 100%;
+    display: grid;
+}
+
+#container {
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: rgb(150, 149, 149);
+    font: 3em Verdana;
+
+}
+
+a {
+    color: rgb(158, 190, 108);
+}
+
+#bottom {
+    text-align: start;
+    vertical-align: bottom;
+}
